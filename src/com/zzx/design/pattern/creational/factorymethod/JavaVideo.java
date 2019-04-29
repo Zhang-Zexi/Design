@@ -1,4 +1,4 @@
-package com.zzx.design.pattern.creational.simplefactory;
+package com.zzx.design.pattern.creational.factorymethod;
 
 /**
  * @ClassName JavaVideo
